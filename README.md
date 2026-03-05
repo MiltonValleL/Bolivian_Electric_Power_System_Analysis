@@ -39,14 +39,14 @@ To handle over **140,000 hourly records** and train deep architectures, I utiliz
 ### 1. Model Tracking Fidelity
 The visualization below confirms the model's exceptional ability to "track" the daily inertia valleys caused by solar displacement during the **2026 validation period**.
 
-![System Inertia Tracking](./images/22.System_Inertia_Tracking(winner_model).jpg)
+![System Inertia Tracking](./images/22.System_Inertia_Tracking(winner_model).png)
 
 > **Finding:** The model exhibits high stability during transient morning ramps (06:00-09:00), where VRE penetration typically compromises synchronous mass.
 
 ### 2. Feature Attribution (Interpretability)
 We moved beyond "black-box" modeling by analyzing the gain-based importance of each variable.
 
-![XGBoost Feature Importance](./images/image_9fb82a.png)
+![XGBoost Feature Importance](./images/XGBoost_Feature_Importance.png)
 
 > **Finding:** **h_sys_equivalent_lag_1** accounts for **70.01%** of the predictive weight. This statistically validates the "Temporal Momentum" of the power grid.
 
