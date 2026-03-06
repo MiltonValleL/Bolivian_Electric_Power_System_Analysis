@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bolivia-power-system-analysis"
+version = "1.0.0"
+description = "Demand and stability analysis of the Bolivian National Interconnected System (2010-2026)"
+readme = "README.md"
+authors = [{name = "Milton Valle"}]
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "scipy",
+    "statsmodels",
+    "scikit-learn",
+    "xgboost",
+    "torch",
+    "tqdm",
+    "requests",
+]
+
+[tool.setuptools]
+packages = ["src"]
