@@ -1,4 +1,4 @@
-# 🧠 BOL-SIN: Predictive Analytics for Grid Stability & Inertia Forecasting
+# 🧠 NATIONAL INTERCONNECTED SYSTEM OF BOLIVIA: Predictive Analytics for Grid Stability & Inertia Forecasting
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.7%20Nightly-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -67,7 +67,7 @@ To ensure world-class standards, I implemented:
 
 <br>
 
-## 📊 Power Generation and Demand Analysis
+## 📊 Bolivian National Interconnected System Analysis
 
 <br>
 
