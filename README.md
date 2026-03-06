@@ -25,15 +25,6 @@ This project delivers an advanced predictive framework to forecast $H_{sys}$ mar
 
 <br>
 
-## 🏗️ High-Performance Computing (HPC) Stack
-To handle over **140,000 hourly records** and train deep architectures, I utilized a high-end workstation:
-* **CPU:** AMD Ryzen 7 9800X3D (8C/16T).
-* **RAM:** 96GB DDR5.
-* **GPU:** **NVIDIA GeForce RTX 5070 Ti (16GB)**.
-* **MLOps:** PyTorch Nightly with **SM_120 (Blackwell)** architecture support.
-
-<br>
-
 ## 📊 Strategic Visualizations & Technical Insights
 
 ### 1. Model Tracking Fidelity
@@ -299,6 +290,14 @@ To ensure world-class standards, I implemented:
 >            - An excellent resource for understanding how Inverter-Based Resources (IBR) like Solar/Wind physically displace traditional inertia.
 > ---
 
+<br>
+
+## 🏗️ High-Performance Computing (HPC) Stack
+To handle over **140,000 hourly records** and train deep architectures, I utilized a high-end workstation:
+* **CPU:** AMD Ryzen 7 9800X3D (8C/16T).
+* **RAM:** 96GB DDR5.
+* **GPU:** **NVIDIA GeForce RTX 5070 Ti (16GB)**.
+* **MLOps:** PyTorch Nightly with **SM_120 (Blackwell)** architecture support.
 
 <br>
 
